@@ -14,6 +14,8 @@ cd frontend
 npm install
 ```
 
+Link to [Presentation](https://docs.google.com/presentation/d/1VBqkzQn4urhLjvzpK3wocOaBDuKWa5dmEKnzwA4IW-Y/edit#slide=id.g9ff5184423_1_10)
+
 ### Bonus Content
 
 Cheat Sheet File contains codes for HTML, CSS and JS.
